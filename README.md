@@ -6,14 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxchana&label=Profile%20views&color=0e75b6&style=flat" alt="itxchana" /> </p>
 
 
+- 📚 Dedicated undergraduate student in Computer Science at the University of Plymouth.<br>👨🏻‍💻 Aspiring Data Science Student Passionate About Python and TensorFlow.<br>👨🏻‍🎨 Data Science Student Eager to Apply Python and TensorFlow<br>🎓Hard-working individual committed to continuous learning and growth.<br>📊 Data-driven web solutions using Python and JavaScript are my forte.<br>📖 Learning and coding enthusiast with a passion for technology.<br>🌟 Eager to collaborate on innovative projects.<br>👤 A good listener who values effective communication within a team.<br>🤝 Strong team player, collaborating seamlessly to achieve project goals. <br> 📫 How to reach me **egallalagenandsiri@gmail.com**
 
-- 🔭 I’m currently working on **Book recommendation system**
+<div align="center">
 
-- 🌱 I’m currently learning **Big Data , Machine Learning**
-
-- 💬 Ask me about **Tensorflow, Android**
-
-- 📫 How to reach me **egallalagenandsiri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <hr/> 
@@ -34,9 +30,9 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div> <br><br>
 
+# 📊 GitHub Stats:
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=mpmabeyrathne&theme=city_light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpmabeyrathne&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itxchana&show_icons=true&locale=en&layout=compact" alt="itxchana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itxchana&show_icons=true&locale=en" alt="itxchana" /></p>
 
