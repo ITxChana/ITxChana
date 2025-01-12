@@ -4,7 +4,7 @@
 <h3 align="center">"Exploring the World of Data Science: My Journey and Discoveries"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 📚 Dedicated undergraduate student in Computer Science at the University of Plymouth.<br>👨🏻‍💻 Aspiring Data Science Student Passionate About Python and TensorFlow.<br>👨🏻‍🎨 Data Science Student Eager to Apply Python and TensorFlow<br>🎓Hard-working individual committed to continuous learning and growth.<br>📊 Data-driven web solutions using Python and JavaScript are my forte.<br>📖 Learning and coding enthusiast with a passion for technology.<br>🌟 Eager to collaborate on innovative projects.<br>👤 A good listener who values effective communication within a team.<br>🤝 Strong team player, collaborating seamlessly to achieve project goals. <br> 📫 How to reach me **egallalagenandsiri@gmail.com**
+- 📚 Dedicated undergraduate student in Computer Science at the University of Plymouth.<br>👨🏻‍💻 Aspiring Data Science Student Passionate About Python and TensorFlow.<br>👨🏻‍🎨 Data Science Student Eager to Apply Python and TensorFlow<br>🎓Hard-working individual committed to continuous learning and growth.<br>📖 Learning and coding enthusiast with a passion for technology.<br>🌟 Eager to collaborate on innovative projects.<br>👤 A good listener who values effective communication within a team.<br>🤝 Strong team player, collaborating seamlessly to achieve project goals. <br> 📫 How to reach me **egallalagenandsiri@gmail.com**
 
 <div align="center">
 
